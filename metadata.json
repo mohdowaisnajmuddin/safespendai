@@ -1,0 +1,6 @@
+{
+  "name": "Buy or Wait?",
+  "description": "AI-powered affordability and payment-planning agent providing conservative 90-day cash-flow forecasts and verifiable payment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
