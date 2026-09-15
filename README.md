@@ -24,7 +24,7 @@ An AI agent that evaluates whether a purchase is safe to make right now, based o
 [Fill in — frontend framework, LLM/agent framework used, hosting]
 
 ⚙️ Running locally
-git clone https://github.com/yourusername/safespendai.git
+git clone https://github.com/mohdowaisnajmuddin/safespendai.git
 cd safespendai
 npm install
 npm run dev
